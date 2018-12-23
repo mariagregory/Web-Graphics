@@ -6,5 +6,5 @@ The logo is made with Adobe Illustrator from a template. The background, hawk, s
 
 I also played with the HTMl <map> tag. Notice the bird jumping on menu arrows :)
 
-Check this out:<br/>
-<img src="https://github.com/uralmasha/Web-Graphics/blob/master/services-screen-with-bg.png"/>
+Check this out:<br/><br/>
+<p align="center"><a href="https://uralmasha.github.io/Web-Graphics/"><img src="https://github.com/uralmasha/Web-Graphics/blob/master/services-screen-with-bg.png"/><a></p>
